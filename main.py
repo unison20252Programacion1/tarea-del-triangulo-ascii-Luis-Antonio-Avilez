@@ -37,7 +37,7 @@ def main():
         
 
     # TODO: llamar a la función triangulo_simetrico con los parámetros m y s
-triangulo_simetrico(m, s)
+    triangulo_simetrico(m, s)
 
 if __name__ == "__main__":
     main()
